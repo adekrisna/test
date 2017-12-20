@@ -241,7 +241,7 @@ wait = {
     'timeline':True,
     "Timeline":True,
     'autoAdd':True,
-    "comment":"Bot Auto Like ©By : Kris\nContact Me : http://line.me/ti/p/GkwfNjoPDH",
+    "comment":"Bot Auto Like ©By : Kris\nContact Me : http://line.me/ti/p/~krissthea",
     "commentOn":True,
     "commentBlack":{},
     "likeOn":False,
